@@ -15,7 +15,7 @@ A Python tool for analyzing firewall logs, detecting suspicious activity, and ge
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/harrymush/firewall_log_analyzer)
    cd firewall_log_analyzer
    ```
 
